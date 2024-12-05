@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.18)  17 SEP 2024 14:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.18)  5 DEC 2024 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/磁贴/工作区/CUP/CUPDG/CUPDG
-(d:/磁贴/工作区/CUP/CUPDG/CUPDG.tex
+**"d:/Tile/Work Directory/CUP/CUPDG/CUPDG"
+(d:/Tile/Work Directory/CUP/CUPDG/CUPDG.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (d:/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls (d:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
@@ -1191,10 +1191,9 @@ File: pics/校外/阳光商厦/千叶寿司.png Graphic file (type bmp)
  [18]
 File: pics/校外/阳光商厦/云三哚.png Graphic file (type bmp)
 <pics/校外/阳光商厦/云三哚.png>
- [19]
 File: pics/校外/阳光商厦/王婆大虾.png Graphic file (type bmp)
 <pics/校外/阳光商厦/王婆大虾.png>
- [20]
+ [19] [20]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 510.
@@ -1214,78 +1213,87 @@ File: pics/校外/东校/肉夹馍.png Graphic file (type bmp)
  [23]
 File: pics/校外/东校/驴肉火烧.png Graphic file (type bmp)
 <pics/校外/东校/驴肉火烧.png>
- [24]
+File: pics/校外/东校/木桐莊.png Graphic file (type bmp)
+<pics/校外/东校/木桐莊.png>
+File: pics/校外/东校/豆花面庄.png Graphic file (type bmp)
+<pics/校外/东校/豆花面庄.png>
+ [24] [25]
 File: pics/校外/悦荟/悦荟.png Graphic file (type bmp)
 <pics/校外/悦荟/悦荟.png>
- [25] [26]
+ [26] [27]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 618.
+(hyperref)                be the same. Added a new anchor on input line 641.
 
 File: pics/校外/政法/山葵村.png Graphic file (type bmp)
 <pics/校外/政法/山葵村.png>
 File: pics/校外/政法/肉先生.png Graphic file (type bmp)
 <pics/校外/政法/肉先生.png>
-[27]
+[28]
 File: pics/校外/政法/螺狮粉.png Graphic file (type bmp)
 <pics/校外/政法/螺狮粉.png>
 File: pics/校外/政法/蜀园.png Graphic file (type bmp)
 <pics/校外/政法/蜀园.png>
 File: pics/校外/政法/喵lady.png Graphic file (type bmp)
 <pics/校外/政法/喵lady.png>
- [28]
+ [29]
 Missing character: There is no 🐱 (U+1F431) in font Times New Roman/OT:script=latn;language=dflt;mapping=tex-text;!
 File: pics/校外/政法/锦州.png Graphic file (type bmp)
 <pics/校外/政法/锦州.png>
 File: pics/校外/政法/串串香.png Graphic file (type bmp)
 <pics/校外/政法/串串香.png>
-[29] [30]
+[30]
+File: pics/校外/政法/米兰西典.png Graphic file (type bmp)
+<pics/校外/政法/米兰西典.png>
+ [31]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 681.
+(hyperref)                be the same. Added a new anchor on input line 714.
 
 File: pics/校外/更远/晋永信.png Graphic file (type bmp)
 <pics/校外/更远/晋永信.png>
 File: pics/校外/更远/烤馕.png Graphic file (type bmp)
 <pics/校外/更远/烤馕.png>
-[31]
+[32]
 File: pics/校外/更远/姜胖胖.png Graphic file (type bmp)
 <pics/校外/更远/姜胖胖.png>
 File: pics/校外/更远/火锅鸡.png Graphic file (type bmp)
 <pics/校外/更远/火锅鸡.png>
- [32]
+ [33]
 File: pics/校外/更远/锦州.png Graphic file (type bmp)
 <pics/校外/更远/锦州.png>
- [33]
+ [34]
 File: pics/校外/更远/砂锅牛.png Graphic file (type bmp)
 <pics/校外/更远/砂锅牛.png>
 File: pics/校外/更远/马记.png Graphic file (type bmp)
 <pics/校外/更远/马记.png>
 File: pics/校外/更远/邹三姐.png Graphic file (type bmp)
 <pics/校外/更远/邹三姐.png>
- [34]
+ [35]
 File: pics/校外/更远/齐齐哈尔.png Graphic file (type bmp)
 <pics/校外/更远/齐齐哈尔.png>
 File: pics/校外/更远/山河屯.png Graphic file (type bmp)
 <pics/校外/更远/山河屯.png>
 File: pics/校外/更远/巫山.png Graphic file (type bmp)
 <pics/校外/更远/巫山.png>
- [35]
+ [36]
 File: pics/校外/更远/车轮饼.png Graphic file (type bmp)
 <pics/校外/更远/车轮饼.png>
- [36] [37] [38] 
+File: pics/校外/更远/阳光烤串.png Graphic file (type bmp)
+<pics/校外/更远/阳光烤串.png>
+ [37] [38] [39] [40] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./CUPDG.aux)
 Package rerunfilecheck Info: File `CUPDG.out' has not changed.
-(rerunfilecheck)             Checksum: FF4B34959FC8EE0E25E8BC7CFF94D9B8;10357.
+(rerunfilecheck)             Checksum: 93434C55F36544187D0769F113B9761F;10922.
  ) 
 Here is how much of TeX's memory you used:
- 31132 strings out of 476683
- 677329 string characters out of 5807575
+ 31195 strings out of 476683
+ 679812 string characters out of 5807575
  1863012 words of memory out of 5000000
- 50743 multiletter control sequences out of 15000+600000
+ 50802 multiletter control sequences out of 15000+600000
  518575 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 100i,12n,104p,1225b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,12n,104p,1240b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CUPDG.pdf (41 pages).
+Output written on CUPDG.pdf (43 pages).
