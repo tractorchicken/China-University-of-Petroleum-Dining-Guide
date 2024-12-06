@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.18)  5 DEC 2024 23:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.19)  6 DEC 2024 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Tile/Work Directory/CUP/CUPDG/CUPDG"
-(d:/Tile/Work Directory/CUP/CUPDG/CUPDG.tex
+**d:/在坐牢/其他/China-University-of-Petroleum-Dining-Guide/CUPDG
+(d:/在坐牢/其他/China-University-of-Petroleum-Dining-Guide/CUPDG.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (d:/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls (d:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
@@ -1116,136 +1116,129 @@ Package fontspec Info: Font family 'STXinwei(0)' created for font 'STXinwei'
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 215.
 
+[3]
 File: pics/校内/炒鸡.jpg Graphic file (type bmp)
 <pics/校内/炒鸡.jpg>
-[3]
 File: pics/校内/卷饼.jpg Graphic file (type bmp)
 <pics/校内/卷饼.jpg>
- [4]
 File: pics/校内/米线.jpg Graphic file (type bmp)
 <pics/校内/米线.jpg>
- [5]
+ [4] [5]
 File: pics/校内/国际饭店.jpg Graphic file (type bmp)
 <pics/校内/国际饭店.jpg>
- [6] [7]
+ [6] [7] [8]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 313.
+(hyperref)                be the same. Added a new anchor on input line 315.
 
 File: pics/校外/南校/高原.png Graphic file (type bmp)
 <pics/校外/南校/高原.png>
 File: pics/校外/南校/华莱士.png Graphic file (type bmp)
 <pics/校外/南校/华莱士.png>
-[8]
+[9]
 File: pics/校外/南校/石锅鱼.png Graphic file (type bmp)
 <pics/校外/南校/石锅鱼.png>
 File: pics/校外/南校/老曹家煎饼.png Graphic file (type bmp)
 <pics/校外/南校/老曹家煎饼.png>
 File: pics/校外/南校/水萝卜.png Graphic file (type bmp)
 <pics/校外/南校/水萝卜.png>
- [9] [10]
+ [10] [11] [12]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 366.
+(hyperref)                be the same. Added a new anchor on input line 391.
 
 File: pics/校外/清秀园/川菜馆.png Graphic file (type bmp)
 <pics/校外/清秀园/川菜馆.png>
 File: pics/校外/清秀园/烧饼.png Graphic file (type bmp)
 <pics/校外/清秀园/烧饼.png>
-[11]
+[13]
 File: pics/校外/清秀园/酒店.png Graphic file (type bmp)
 <pics/校外/清秀园/酒店.png>
- [12]
+ [14]
 File: pics/校外/清秀园/砂锅面.png Graphic file (type bmp)
 <pics/校外/清秀园/砂锅面.png>
 File: pics/校外/清秀园/尝到家尝.png Graphic file (type bmp)
 <pics/校外/清秀园/尝到家尝.png>
- [13] [14]
+ [15] [16]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 415.
+(hyperref)                be the same. Added a new anchor on input line 440.
 
 File: pics/校外/润杰/川渝小厨.png Graphic file (type bmp)
 <pics/校外/润杰/川渝小厨.png>
 File: pics/校外/润杰/哈尔滨麻辣烫.png Graphic file (type bmp)
 <pics/校外/润杰/哈尔滨麻辣烫.png>
-[15]
+[17]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 439.
+(hyperref)                be the same. Added a new anchor on input line 464.
 
 File: pics/校外/阳光商厦/好伦哥.png Graphic file (type bmp)
 <pics/校外/阳光商厦/好伦哥.png>
 File: pics/校外/阳光商厦/生鲜超市.png Graphic file (type bmp)
 <pics/校外/阳光商厦/生鲜超市.png>
-[16]
+[18]
 File: pics/校外/阳光商厦/达美乐.png Graphic file (type bmp)
 <pics/校外/阳光商厦/达美乐.png>
- [17]
+ [19]
 File: pics/校外/阳光商厦/麦当劳.png Graphic file (type bmp)
 <pics/校外/阳光商厦/麦当劳.png>
 File: pics/校外/阳光商厦/汉堡王.png Graphic file (type bmp)
 <pics/校外/阳光商厦/汉堡王.png>
+ [20]
 File: pics/校外/阳光商厦/千叶寿司.png Graphic file (type bmp)
 <pics/校外/阳光商厦/千叶寿司.png>
- [18]
 File: pics/校外/阳光商厦/云三哚.png Graphic file (type bmp)
 <pics/校外/阳光商厦/云三哚.png>
+ [21]
 File: pics/校外/阳光商厦/王婆大虾.png Graphic file (type bmp)
 <pics/校外/阳光商厦/王婆大虾.png>
- [19] [20]
+ [22]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 510.
+(hyperref)                be the same. Added a new anchor on input line 539.
 
 File: pics/校外/东校/螺狮粉.png Graphic file (type bmp)
 <pics/校外/东校/螺狮粉.png>
-[21]
+[23]
 File: pics/校外/东校/板面.png Graphic file (type bmp)
 <pics/校外/东校/板面.png>
 File: pics/校外/东校/人之初.png Graphic file (type bmp)
 <pics/校外/东校/人之初.png>
+ [24]
 File: pics/校外/东校/京东肉饼.png Graphic file (type bmp)
 <pics/校外/东校/京东肉饼.png>
- [22]
 File: pics/校外/东校/肉夹馍.png Graphic file (type bmp)
 <pics/校外/东校/肉夹馍.png>
- [23]
+ [25] [26]
 File: pics/校外/东校/驴肉火烧.png Graphic file (type bmp)
 <pics/校外/东校/驴肉火烧.png>
-File: pics/校外/东校/木桐莊.png Graphic file (type bmp)
-<pics/校外/东校/木桐莊.png>
-File: pics/校外/东校/豆花面庄.png Graphic file (type bmp)
-<pics/校外/东校/豆花面庄.png>
- [24] [25]
+ [27]
 File: pics/校外/悦荟/悦荟.png Graphic file (type bmp)
 <pics/校外/悦荟/悦荟.png>
- [26] [27]
+ [28] [29] [30]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 641.
+(hyperref)                be the same. Added a new anchor on input line 651.
 
 File: pics/校外/政法/山葵村.png Graphic file (type bmp)
 <pics/校外/政法/山葵村.png>
 File: pics/校外/政法/肉先生.png Graphic file (type bmp)
 <pics/校外/政法/肉先生.png>
-[28]
+[31]
 File: pics/校外/政法/螺狮粉.png Graphic file (type bmp)
 <pics/校外/政法/螺狮粉.png>
 File: pics/校外/政法/蜀园.png Graphic file (type bmp)
 <pics/校外/政法/蜀园.png>
 File: pics/校外/政法/喵lady.png Graphic file (type bmp)
 <pics/校外/政法/喵lady.png>
- [29]
+ [32]
 Missing character: There is no 🐱 (U+1F431) in font Times New Roman/OT:script=latn;language=dflt;mapping=tex-text;!
 File: pics/校外/政法/锦州.png Graphic file (type bmp)
 <pics/校外/政法/锦州.png>
 File: pics/校外/政法/串串香.png Graphic file (type bmp)
 <pics/校外/政法/串串香.png>
-[30]
-File: pics/校外/政法/米兰西典.png Graphic file (type bmp)
-<pics/校外/政法/米兰西典.png>
- [31]
+[33] [34]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 714.
@@ -1254,46 +1247,49 @@ File: pics/校外/更远/晋永信.png Graphic file (type bmp)
 <pics/校外/更远/晋永信.png>
 File: pics/校外/更远/烤馕.png Graphic file (type bmp)
 <pics/校外/更远/烤馕.png>
-[32]
+[35]
 File: pics/校外/更远/姜胖胖.png Graphic file (type bmp)
 <pics/校外/更远/姜胖胖.png>
 File: pics/校外/更远/火锅鸡.png Graphic file (type bmp)
 <pics/校外/更远/火锅鸡.png>
- [33]
+ [36]
 File: pics/校外/更远/锦州.png Graphic file (type bmp)
 <pics/校外/更远/锦州.png>
- [34]
+ [37]
 File: pics/校外/更远/砂锅牛.png Graphic file (type bmp)
 <pics/校外/更远/砂锅牛.png>
 File: pics/校外/更远/马记.png Graphic file (type bmp)
 <pics/校外/更远/马记.png>
 File: pics/校外/更远/邹三姐.png Graphic file (type bmp)
 <pics/校外/更远/邹三姐.png>
- [35]
+ [38]
 File: pics/校外/更远/齐齐哈尔.png Graphic file (type bmp)
 <pics/校外/更远/齐齐哈尔.png>
 File: pics/校外/更远/山河屯.png Graphic file (type bmp)
 <pics/校外/更远/山河屯.png>
 File: pics/校外/更远/巫山.png Graphic file (type bmp)
 <pics/校外/更远/巫山.png>
- [36]
+ [39]
 File: pics/校外/更远/车轮饼.png Graphic file (type bmp)
 <pics/校外/更远/车轮饼.png>
-File: pics/校外/更远/阳光烤串.png Graphic file (type bmp)
-<pics/校外/更远/阳光烤串.png>
- [37] [38] [39] [40] 
+File: pics/校外/更远/麦香炸鸡.png Graphic file (type bmp)
+<pics/校外/更远/麦香炸鸡.png>
+ [40] [41] [42] [43] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./CUPDG.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `CUPDG.out' has not changed.
-(rerunfilecheck)             Checksum: 93434C55F36544187D0769F113B9761F;10922.
+(rerunfilecheck)             Checksum: B01098274F35C758D674032C22DAE2A0;11198.
  ) 
 Here is how much of TeX's memory you used:
- 31195 strings out of 476683
- 679812 string characters out of 5807575
- 1863012 words of memory out of 5000000
- 50802 multiletter control sequences out of 15000+600000
+ 31168 strings out of 478630
+ 678927 string characters out of 5847730
+ 1864012 words of memory out of 5000000
+ 50655 multiletter control sequences out of 15000+600000
  518575 words of font info for 128 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 100i,12n,104p,1240b,546s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 36 hyphenation exceptions out of 8191
+ 100i,12n,104p,1258b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CUPDG.pdf (43 pages).
+Output written on CUPDG.pdf (46 pages).
